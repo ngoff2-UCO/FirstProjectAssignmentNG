@@ -1,0 +1,17 @@
+C:\Users\ngoff\source\repos\FirstProjectAssignmentNG\FirstProjectAssignmentNG\bin\Debug\net10.0-windows\FirstProjectAssignmentNG.exe
+C:\Users\ngoff\source\repos\FirstProjectAssignmentNG\FirstProjectAssignmentNG\bin\Debug\net10.0-windows\FirstProjectAssignmentNG.deps.json
+C:\Users\ngoff\source\repos\FirstProjectAssignmentNG\FirstProjectAssignmentNG\bin\Debug\net10.0-windows\FirstProjectAssignmentNG.runtimeconfig.json
+C:\Users\ngoff\source\repos\FirstProjectAssignmentNG\FirstProjectAssignmentNG\bin\Debug\net10.0-windows\FirstProjectAssignmentNG.dll
+C:\Users\ngoff\source\repos\FirstProjectAssignmentNG\FirstProjectAssignmentNG\bin\Debug\net10.0-windows\FirstProjectAssignmentNG.pdb
+C:\Users\ngoff\source\repos\FirstProjectAssignmentNG\FirstProjectAssignmentNG\obj\Debug\net10.0-windows\FirstProjectAssignmentNG.Form1.resources
+C:\Users\ngoff\source\repos\FirstProjectAssignmentNG\FirstProjectAssignmentNG\obj\Debug\net10.0-windows\FirstProjectAssignmentNG.csproj.GenerateResource.cache
+C:\Users\ngoff\source\repos\FirstProjectAssignmentNG\FirstProjectAssignmentNG\obj\Debug\net10.0-windows\FirstProjectAssignmentNG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngoff\source\repos\FirstProjectAssignmentNG\FirstProjectAssignmentNG\obj\Debug\net10.0-windows\FirstProjectAssignmentNG.AssemblyInfoInputs.cache
+C:\Users\ngoff\source\repos\FirstProjectAssignmentNG\FirstProjectAssignmentNG\obj\Debug\net10.0-windows\FirstProjectAssignmentNG.AssemblyInfo.cs
+C:\Users\ngoff\source\repos\FirstProjectAssignmentNG\FirstProjectAssignmentNG\obj\Debug\net10.0-windows\FirstProjectAssignmentNG.csproj.CoreCompileInputs.cache
+C:\Users\ngoff\source\repos\FirstProjectAssignmentNG\FirstProjectAssignmentNG\obj\Debug\net10.0-windows\FirstProjectAssignmentNG.dll
+C:\Users\ngoff\source\repos\FirstProjectAssignmentNG\FirstProjectAssignmentNG\obj\Debug\net10.0-windows\refint\FirstProjectAssignmentNG.dll
+C:\Users\ngoff\source\repos\FirstProjectAssignmentNG\FirstProjectAssignmentNG\obj\Debug\net10.0-windows\FirstProjectAssignmentNG.pdb
+C:\Users\ngoff\source\repos\FirstProjectAssignmentNG\FirstProjectAssignmentNG\obj\Debug\net10.0-windows\FirstProjectAssignmentNG.genruntimeconfig.cache
+C:\Users\ngoff\source\repos\FirstProjectAssignmentNG\FirstProjectAssignmentNG\obj\Debug\net10.0-windows\ref\FirstProjectAssignmentNG.dll
+C:\Users\ngoff\source\repos\FirstProjectAssignmentNG\FirstProjectAssignmentNG\obj\Debug\net10.0-windows\FirstPro.8C6ECFEC.Up2Date
